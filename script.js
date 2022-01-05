@@ -1,6 +1,6 @@
 const text = document.getElementById("message");
 
-const prog = "Bienvenue sur mon portfolio ! Voici un message qui se rédige automatiquement !!";
+const prog = "Voici un message qui se rédige automatiquement !";
 
 let index = 1;
 
